@@ -29,3 +29,15 @@ Here are some ideas to get you started:
 #### My Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwikailham&layout=donut&theme=radical)](https://github.com/dwikailham/github-readme-stats) ![Dwika's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwikailham&show_icons=true&theme=radical)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dwikailham/dwikailham/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dwikailham/dwikailham/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dwikailham/dwikailham/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/dwikailham/dwikailham/output/snake.svg" alt="Snake animation" />
+
+###
