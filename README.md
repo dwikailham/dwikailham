@@ -24,4 +24,10 @@ Here are some ideas to get you started:
 
 #### Connect With Me
 
-![https://www.linkedin.com/in/dwikailham](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dwikailham)
+
+#### My Github Stats
+
+![Dwika's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwikailham&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
