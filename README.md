@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 #### My Github Stats
 
-![Dwika's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwikailham&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwikailham&layout=donut&theme=radical)](https://github.com/dwikailham/github-readme-stats) ![Dwika's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwikailham&show_icons=true&theme=radical)
