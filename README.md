@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 #### My Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwikailham&layout=donut&theme=radical)](https://github.com/dwikailham/github-readme-stats) ![Dwika's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwikailham&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwikailham&layout=donut&theme=radical&cache_seconds=1) ![Dwika's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwikailham&show_icons=true&theme=radical)
 
 ###
 
