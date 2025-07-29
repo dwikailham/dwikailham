@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwikailham&layout=donut&theme=radical&cache_seconds=1) ![Dwika's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwikailham&show_icons=true&theme=radical&cache_seconds=1)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwikailham&theme=dark" alt="dwikailham" /></p>
+
 ###
 
 <img src="https://raw.githubusercontent.com/dwikailham/dwikailham/output/snake.svg" alt="Snake animation" />
